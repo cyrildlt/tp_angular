@@ -1,0 +1,8 @@
+div{
+    border: 10px blue solid;
+    width:30%;
+    margin:auto;
+}
+h3,p{
+    text-align: center;
+}

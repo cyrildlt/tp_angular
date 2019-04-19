@@ -1,0 +1,5 @@
+<div><label for="Recherche">Recherche: </label> <input type="text" name="Recherche"
+        (input)="onChangeValue($event.target.value)">
+    <app-article *ngFor="let article of this.articles()" [article]="article" (deletedArticle)="delete($event)">
+    </app-article>
+</div>

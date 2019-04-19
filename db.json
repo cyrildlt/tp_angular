@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Example1",
+      "content": "I read something about angular service, i will try it soon",
+      "author": "Orangefire",
+      "id": 1
+    },
+    {
+      "title": "Example2",
+      "content": "I need to go",
+      "author": "Cyril",
+      "id": 2
+    },
+    {
+      "title": "Book",
+      "content": "About technology",
+      "author": "Nicolas",
+      "id": 1555687524541
+    }
+  ]
+}
